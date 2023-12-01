@@ -8,6 +8,7 @@ namespace LAb1_осипов
         {
             Console.WriteLine("Привет мир!");
             Console.WriteLine("Осипов");
+            Console.WriteLine("20");
         }
     }
 }
